@@ -3,6 +3,8 @@ jquery-mobile-morecolumns
 
 Small jQuery Mobile plugin to extend support for grids of up to 8 columns
 
+*Working on jQuery Mobile 1.4.0, not tested on previous versions
+
 Instructions
 ---
 
